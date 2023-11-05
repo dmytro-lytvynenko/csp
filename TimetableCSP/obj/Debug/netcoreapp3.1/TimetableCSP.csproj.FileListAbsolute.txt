@@ -1,0 +1,14 @@
+/Users/lytvynenkodmytro/Downloads/drive-download-20230417T122629Z-001/CSP/TimetableCSP/bin/Debug/netcoreapp3.1/TimetableCSP
+/Users/lytvynenkodmytro/Downloads/drive-download-20230417T122629Z-001/CSP/TimetableCSP/bin/Debug/netcoreapp3.1/TimetableCSP.deps.json
+/Users/lytvynenkodmytro/Downloads/drive-download-20230417T122629Z-001/CSP/TimetableCSP/bin/Debug/netcoreapp3.1/TimetableCSP.runtimeconfig.json
+/Users/lytvynenkodmytro/Downloads/drive-download-20230417T122629Z-001/CSP/TimetableCSP/bin/Debug/netcoreapp3.1/TimetableCSP.runtimeconfig.dev.json
+/Users/lytvynenkodmytro/Downloads/drive-download-20230417T122629Z-001/CSP/TimetableCSP/bin/Debug/netcoreapp3.1/TimetableCSP.dll
+/Users/lytvynenkodmytro/Downloads/drive-download-20230417T122629Z-001/CSP/TimetableCSP/bin/Debug/netcoreapp3.1/TimetableCSP.pdb
+/Users/lytvynenkodmytro/Downloads/drive-download-20230417T122629Z-001/CSP/TimetableCSP/obj/Debug/netcoreapp3.1/TimetableCSP.csproj.AssemblyReference.cache
+/Users/lytvynenkodmytro/Downloads/drive-download-20230417T122629Z-001/CSP/TimetableCSP/obj/Debug/netcoreapp3.1/TimetableCSP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lytvynenkodmytro/Downloads/drive-download-20230417T122629Z-001/CSP/TimetableCSP/obj/Debug/netcoreapp3.1/TimetableCSP.AssemblyInfoInputs.cache
+/Users/lytvynenkodmytro/Downloads/drive-download-20230417T122629Z-001/CSP/TimetableCSP/obj/Debug/netcoreapp3.1/TimetableCSP.AssemblyInfo.cs
+/Users/lytvynenkodmytro/Downloads/drive-download-20230417T122629Z-001/CSP/TimetableCSP/obj/Debug/netcoreapp3.1/TimetableCSP.csproj.CoreCompileInputs.cache
+/Users/lytvynenkodmytro/Downloads/drive-download-20230417T122629Z-001/CSP/TimetableCSP/obj/Debug/netcoreapp3.1/TimetableCSP.dll
+/Users/lytvynenkodmytro/Downloads/drive-download-20230417T122629Z-001/CSP/TimetableCSP/obj/Debug/netcoreapp3.1/TimetableCSP.pdb
+/Users/lytvynenkodmytro/Downloads/drive-download-20230417T122629Z-001/CSP/TimetableCSP/obj/Debug/netcoreapp3.1/TimetableCSP.genruntimeconfig.cache
